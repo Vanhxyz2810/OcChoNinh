@@ -1,0 +1,1406 @@
+{
+    "WeansHHN-32624e35-16ed-4f83-8632-88abfcb57940": {
+        "user": "WeansHHN",
+        "amount": "15-01-2025",
+        "uuid": null,
+        "max_devices": 3,
+        "devices": [
+            "14B75BB8-ECB0-484F-AC66-F7505DA646A5",
+            "4A5FB311-EBDF-453A-93D4-579060847596"
+        ]
+    },
+    "nhn-f88adfaf-9d1e-4599-ab55-2bc0a4d70e50": {
+        "user": "KhoaLor",
+        "amount": "15-01-2025",
+        "uuid": null,
+        "max_devices": 10,
+        "devices": [
+            "CBC018C3-2EEF-44C0-BE4E-84111325E305",
+            "EBD9E4AB-62AE-4610-B234-483E3788591B",
+            "2D0D2CB6-5C10-4200-BDB9-8C045E0BE53F"
+        ]
+    },
+    "KhoaIOS-afc3704b-b335-464b-9c18-32f88074f69f": {
+        "user": "KhoaLor",
+        "amount": "16-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "4AAECEB9-D9D8-48DD-AD14-AFDC1D84B7A1"
+        ]
+    },
+    "DangKhoa-18538806-da3f-427d-a602-4a01e244d546": {
+        "user": "KhoaLor",
+        "amount": "16-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "5A7053AF-7C41-467A-BD80-1F5B44B92672"
+        ]
+    },
+    "DangKhoa-c7fc56c0-0aa0-460f-a08a-5a82a581a8be": {
+        "user": "KhoaLor",
+        "amount": "16-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "C50C32AC-E606-474E-9F25-76EAFCC83426"
+        ]
+    },
+    "DangKhoa-ffacdf1e-f35a-464f-8a39-e42188cc7cd4": {
+        "user": "KhoaLor",
+        "amount": "17-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "8F257C42-C61B-4F39-A642-B6D87E7E0B02"
+        ]
+    },
+    "dohuios-1b1087e7-914c-4935-b4e6-50759c4a85fc": {
+        "user": "KhoaLor",
+        "amount": "19-10-2024",
+        "uuid": null,
+        "max_devices": 1000,
+        "devices": [
+            "627810A5-0E5B-4C4D-95F4-1C4ED768E03D",
+            "142F8150-7722-40BF-A0C0-A1628643AF79",
+            "6FDB645E-F700-4F34-BCFF-8223B5838326",
+            "F9E505CD-615E-4FE8-AE2F-A4F896F7F8FE",
+            "7874872A-BF6C-4A9C-A184-C78056345BB2",
+            "83F59A4B-24F0-46F9-BF5E-CAAF09E3DDB9"
+        ]
+    },
+    "khoaios-54be7b42-43d0-48d5-97ad-45e91c944743": {
+        "user": "KhoaLor",
+        "amount": "17-01-2025",
+        "uuid": null,
+        "max_devices": 1000,
+        "devices": [
+            "67124E73-2771-4A6F-B9F5-EB58A95A4F4F"
+        ]
+    },
+    "DangKhoa-86b7ffd9-c217-4222-894d-45ef19cec3ac": {
+        "user": "KhoaLor",
+        "amount": "18-11-2024",
+        "uuid": null,
+        "max_devices": 10,
+        "devices": [
+            "92E51967-09BD-4745-819D-EA34F665417B",
+            "234BCA64-6781-4827-949A-1CDA1DBAD13A"
+        ]
+    },
+    "khoaiosvn-b6b6ceb3-e56d-4046-96ee-16deabea587f": {
+        "user": "KhoaLor",
+        "amount": "18-11-2024",
+        "uuid": null,
+        "max_devices": 10,
+        "devices": [
+            "837EEF9E-E2A8-4010-9C84-FBE7EFAD7EBA"
+        ]
+    },
+    "pro-10878356-14a1-4ebb-802c-174029535850": {
+        "user": "KhoaLor",
+        "amount": "17-01-2025",
+        "uuid": null,
+        "max_devices": 5555,
+        "devices": [
+            "8C9A56A4-D1C4-433C-81D0-6BFFFC39FDCE",
+            "E626D4EA-482D-4CB4-B5D8-C50A0533A432"
+        ]
+    },
+    "FreeFire-765a140f-8efb-43ed-9d75-3dc0c8d9c831": {
+        "user": "WeansHHN",
+        "amount": "19-01-2025",
+        "uuid": null,
+        "max_devices": 5,
+        "devices": [
+            "4A5FB311-EBDF-453A-93D4-579060847596",
+            "A67803EA-733F-4480-801E-E15262BB082D",
+            "F57FA3AF-5743-4B99-8C76-E348C2D9B19E"
+        ]
+    },
+    "khoaios-7a7bad84-8ec3-47eb-b6aa-7bb0dc446640": {
+        "user": "KhoaLor",
+        "amount": "20-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": []
+    },
+    "Week-19656fbe-9fce-4854-bec5-b18fc1bf2c05": {
+        "user": "KhoaLor",
+        "amount": "29-10-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "D4834FAA-C782-49C3-804D-36D2C07D6DE9"
+        ]
+    },
+    "AOVPrivate-month-58db68ce-e18a-49d4-bd3a-787f465ee3bd": {
+        "user": "KhoaLor",
+        "amount": "21-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": []
+    },
+    "dohuios--0bf272c8-06c0-4a0b-b42d-828b71e581ab": {
+        "user": "SonLo",
+        "amount": "21-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "9FDA80EA-864B-4358-AD01-ED9D4B63DE33"
+        ]
+    },
+    "mothdohuios-53cb1b42-41c6-44c2-9e39-e3769509058f": {
+        "user": "SonLo",
+        "amount": "23-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": []
+    },
+    "huhu-b3e19b81-6c58-4ec1-bfbd-df33e93fb2b2": {
+        "user": "SonLo",
+        "amount": "23-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "83DA4D53-A9CD-4158-90F7-C5B953666F28"
+        ]
+    },
+    "keymonth-9f8d9ca0-4874-4fa5-b714-be1095156922": {
+        "user": "SonLo",
+        "amount": "23-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "94F56087-D207-4C30-BA66-56A31FB6FB27"
+        ]
+    },
+    "gggg-d58586e5-4f70-42e7-8ba7-c1357d740be9": {
+        "user": "SonLo",
+        "amount": "01-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "1A3AC6DE-6399-4B04-ACB0-D8F6BDDC6ADE"
+        ]
+    },
+    "keytuan-1c82f0cc-7c41-4855-9b35-56ab1b3db7bd": {
+        "user": "SonLo",
+        "amount": "01-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "C612F04E-BAFD-464A-A3BC-2F34E1D49246"
+        ]
+    },
+    "Demquaemtuyetlam-d061c1aa-2900-4867-badd-deddce47da94": {
+        "user": "SonLo",
+        "amount": "02-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "C6B29CE8-118B-4442-8524-8B1986315861"
+        ]
+    },
+    "ccccc-754ddab1-b702-418c-8ed3-a50da75f3a8f": {
+        "user": "SonLo",
+        "amount": "24-01-2025",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "5E561EFF-53DF-4C50-955C-D8A7208AAC15"
+        ]
+    },
+    "Emiuthongcam-d2e57aa8-c956-4436-924b-9de4213f1f88": {
+        "user": "SonLo",
+        "amount": "25-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "788CB5A2-B108-48EB-810E-F11AD29C3CE0"
+        ]
+    },
+    "KhoaIOS-month-5dba6ed6-fa61-40a0-a783-73d68b2a5f61": {
+        "user": "KhoaLor",
+        "amount": "25-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "0FCF4F2D-B153-4337-801E-58C43589B85A"
+        ]
+    },
+    "KhoaIOS-month-8e7c1219-85a6-4afb-aafe-cb988dbc24e2": {
+        "user": "KhoaLor",
+        "amount": "25-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "DCF4E7F4-6F65-421D-9C49-D0FD3FC3E847"
+        ]
+    },
+    "dohuios-b775670c-046d-45dc-960d-cbcc9b6baeab": {
+        "user": "SonLo",
+        "amount": "03-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "CA5FE2F5-4617-4A5F-8DB9-C512903C87B5"
+        ]
+    },
+    "KeyFreeWeansHHNiOS-d1d9bf8e-56a2-4417-b4ec-dc9a64bc09b7": {
+        "user": "WeansHHN",
+        "amount": "04-11-2024",
+        "uuid": null,
+        "max_devices": 100,
+        "devices": [
+            "B9746036-6D12-431D-BA7A-8C8F3FF64662",
+            "07C77787-1988-4A3E-9E93-700B17F320EE"
+        ]
+    },
+    "AnhHoangBeo-year-adb1c485-08e2-4ff4-9bd5-4974e9f94164": {
+        "user": "KhoaLor",
+        "amount": "26-01-2025",
+        "uuid": null,
+        "max_devices": 100,
+        "devices": [
+            "7431864C-BBC0-4EF2-911E-551B1E3DBC10"
+        ]
+    },
+    "Dohuios-Month-8a971192-7b40-472d-8a21-cb670cd2671c": {
+        "user": "SonLo",
+        "amount": "27-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "41A8A7AE-C37C-4BF2-AFC9-C0525271C26F"
+        ]
+    },
+    "Sonlo-7b52b672-5360-44d6-9877-29950e3118c7": {
+        "user": "SonLo",
+        "amount": "26-01-2025",
+        "uuid": null,
+        "max_devices": 1000,
+        "devices": [
+            "0587B6C9-2A12-407B-B3C8-5C630BB29B5E",
+            "D02E1D5D-031D-4EA5-988F-BC110DB6C52D",
+            "4134FAA2-8453-4645-BF82-15C4DC4AFF48"
+        ]
+    },
+    "TrungPrivate-c97aa092-b476-4d09-9302-6d566edeffa9": {
+        "user": "WeansHHN",
+        "amount": "28-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "29DC15A2-2B26-4E01-8D8E-876C8FD9D929"
+        ]
+    },
+    "KakaPrivate-6edb94e5-44bb-4f65-90b1-77f7e19105e7": {
+        "user": "WeansHHN",
+        "amount": "05-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "F26C9B2E-91CE-470B-A8B2-0D75100F1DCB"
+        ]
+    },
+    "HadesPrivate-b09ad7b6-265f-44a8-a185-4d33fad70a3d": {
+        "user": "WeansHHN",
+        "amount": "05-11-2024",
+        "uuid": null,
+        "max_devices": 2,
+        "devices": [
+            "84CEB17D-E97C-477E-BBE7-27E0AAD7F1C9",
+            "A772B92D-1B61-4FE3-981A-BB78D987FA91"
+        ]
+    },
+    "Month-c6b0cfd3-c97a-4222-b3e8-c7d98500fdfa": {
+        "user": "SonLo",
+        "amount": "29-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "CF95FA5A-E91C-40B9-B889-AE9078DF1D31"
+        ]
+    },
+    "ModSkinAOV-9727d51c-3104-4c47-be2b-e407ca212adb": {
+        "user": "WeansHHN",
+        "amount": "06-11-2024",
+        "uuid": null,
+        "max_devices": 20,
+        "devices": [
+            "FFCA3C65-9460-4A84-90FF-D21EFA46CFB8",
+            "A8B78B99-22A4-450F-866A-4E9316F40787",
+            "169D8A23-D411-42F9-8AE8-CBB71C0F3113",
+            "9999FF01-2032-40BB-88AF-448481BA1F9D",
+            "E26C1A9E-184D-486D-B26D-5C3C66151FA9",
+            "AFFF8F94-0C9A-4091-BBC9-B2DE0C6BA5DF",
+            "20639D7C-8383-402F-8372-3537D563521F",
+            "D242C733-C859-4338-90AD-291AA273BB39",
+            "5A070E41-EE6F-45E2-9639-337835931E5D",
+            "3EC25BFB-A335-4CC3-83F9-9DBE46C27096",
+            "1707831C-BFB0-4F9D-88FC-F18325B55757"
+        ]
+    },
+    "KeyMonthDohu-b3ec6b4a-c8bb-43dc-ada3-0a38dec98fc2": {
+        "user": "SonLo",
+        "amount": "29-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "401B3399-D2C6-4047-9132-5A22BCC19BCA"
+        ]
+    },
+    "KeyMonthDohu-1db32258-7734-46e4-b0a8-38448c33cefd": {
+        "user": "SonLo",
+        "amount": "29-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "59E7896B-F967-429E-8B37-EA34DE819ECF"
+        ]
+    },
+    "KeyFreeWeansHHNiOS-4150473c-a471-4b80-9989-9fc44a295052": {
+        "user": "WeansHHN",
+        "amount": "09-11-2024",
+        "uuid": null,
+        "max_devices": 20,
+        "devices": [
+            "397EBC7F-CBA0-418B-8B0B-744C351D70B3",
+            "9FAEB5EB-7110-44E4-910A-9F7BDAF26C8F",
+            "90D1B2C5-AF07-4EC2-AB46-FF32F4C02BD3",
+            "7342883F-4434-417F-8000-CDBF99CE90E0",
+            "A4C7DD04-F51A-4B14-87AE-E267190E9161",
+            "D456B8F6-9BAA-4EDD-9E52-6148BD2279A6",
+            "CDF8DA44-08C9-44F2-A89E-51422938884C",
+            "52A7164C-E31F-43B7-8812-75174A6C6319",
+            "FD0B0F59-7C29-4339-9883-56C0CDEB456B",
+            "A6FB063B-ACAE-4197-A11D-522E8E66AC16",
+            "A53036B7-F250-4F9F-8123-BDDD79661039",
+            "D64A0AE8-7055-4AD4-ADED-516A29A3AD55",
+            "E5A7F1EA-2A26-4B3D-80F9-3B9D1FF3A5C1",
+            "E9EC1FDB-02DD-423D-A562-C03C64034497",
+            "8A64DD91-7787-43A7-8B63-BA340AA9ABB3",
+            "AEDE8762-54C9-4F5F-AB6F-DA0648DE1294",
+            "77BF07C5-6C8C-445D-BE49-138AD0A91BB6",
+            "74680637-6976-40BD-81C1-A7909C483BD2",
+            "460AB274-35EE-43EE-8304-426DC2640442"
+        ]
+    },
+    "TuanDohu-576c367c-effe-4757-bc40-6363f31026e8": {
+        "user": "SonLo",
+        "amount": "09-11-2024",
+        "uuid": null,
+        "max_devices": 1,
+        "devices": [
+            "6ECFBE25-C09C-4618-BF43-FBA6B82E9739"
+        ]
+    },
+    "WeansHHN": {
+        "KeyCuaVoIu-8926ba29633d43d18c80930d3877951d": {
+            "user": "WeansHHN",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "DE760541-F67E-4790-938B-406D22B5F933"
+            ]
+        },
+        "WeansHHN-9d61ff4149f8494eb9cdc69625829541": {
+            "user": "WeansHHN",
+            "amount": "07-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "77027BB5-7AEE-49C5-9888-DF4CB908FC0E"
+            ]
+        },
+        "WeansHHN-d7a722b433f34d51a46163e2d63f452a": {
+            "user": "WeansHHN",
+            "amount": "02-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "E3AED918-F344-4AC7-BA15-CBB8EB912957"
+            ]
+        },
+        "WeansHHN-f02c991449f5414c9125ac924b19f7c6": {
+            "user": "WeansHHN",
+            "amount": "03-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "2455CA58-8E38-421D-BA84-E50E521A9A1B"
+            ]
+        },
+        "WeansHHN-68fe89785e87449f9973b81bda59e2bc": {
+            "user": "WeansHHN",
+            "amount": "04-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "DE563732-DFBE-4F19-B15A-DE074F71ADBE"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-c535fb165d4444e389db61d84f9f894a": {
+            "user": "WeansHHN",
+            "amount": "04-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "B66551BB-7598-4331-94B7-4178D10C78F8"
+            ]
+        },
+        "WeansHHN-facde69e6d1c4bccae4841048f509213": {
+            "user": "WeansHHN",
+            "amount": "04-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "00BDA503-DC60-4CE6-9D7E-73A34BCADCF7"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-f275555a375f4de4aeb6b33b1595197c": {
+            "user": "WeansHHN",
+            "amount": "11-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "5A2098E7-5EED-40F1-9EC6-A119845C0E53"
+            ]
+        },
+        "WeansHHN-75ec89fa3a9644bcb732fb3c25496f25": {
+            "user": "WeansHHN",
+            "amount": "12-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "069C7805-0F73-4A53-8989-D41539F83269"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-4d72ff7cd92b45c584e993a2a8a49700": {
+            "user": "WeansHHN",
+            "amount": "12-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "1AB467CA-DB49-4B2B-A046-0DFAEB9C756C"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-d5d08793fca74818b6c783097512b8e6": {
+            "user": "WeansHHN",
+            "amount": "22-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "10CD9A51-3389-4878-805C-9AEE94CF991E"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-4c5f9301ba3040859af378deadc752dc": {
+            "user": "WeansHHN",
+            "amount": "15-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "66124124-AC22-4BCD-95F2-542FD3563146"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-c188834e9cb04498be99f7373f4e8278": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "A60E971A-A5DD-4AD2-AEBD-02E969085314"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-20ce708b59f44cdea19be9b7473e4f2b": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "BD5F3E29-7AE3-4869-B491-AADA5DFA181F"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-db696114d95048b993ce73a0e4c53d1f": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "D0A164DA-6D69-44AC-927C-6FD17C700A1A"
+            ]
+        },
+        "WeansHHN-394849098f4f4215b56f47c8c4eb6aa7": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "29DECC8D-4CC9-4E60-8AF9-55AE7659F719"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-82fe155247e64c56a4bcf640d73f4806": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "EB4C67F3-FE95-4B8F-8AD4-AF55CB23A63A"
+            ]
+        },
+        "WeansHHN-0c21153433ff4c99b46f942af4382157": {
+            "user": "WeansHHN",
+            "amount": "12-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "90AC1CC1-358F-425E-970E-195C2FAB3FA1"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-bb5c2660da364a11a398f4bb487523b2": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "65206FE8-3EE1-4DE4-B0EB-59056F61A4A8"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-7733ed730ca74803a1eabbfb7b447c25": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "FF6C0A38-2DD4-4B18-A679-4CA890965AFA"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-9cf131f5be54418abe24a2f1dc676eb1": {
+            "user": "WeansHHN",
+            "amount": "15-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "0CF01993-4DA5-431A-BD42-C4B122408B58"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-e7958dc10d4e4e1dbc7bedf895331bd3": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "2809E870-57F6-4ABD-85A6-9980F24BEBA3"
+            ]
+        },
+        "WeansHHN-2853057c5024430bbf91ff5b834bd8f5": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "6881A238-511C-4D03-AF64-C71D9F8DD230"
+            ]
+        },
+        "WeansHHN-eb72eb9051544096b1b4f181d433e055": {
+            "user": "WeansHHN",
+            "amount": "12-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "99056E31-1613-4DA1-AD82-F78E0F172D87"
+            ]
+        },
+        "WeansHHN-4e0779d8c5e84cd8823fe30b938f1ff9": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "44C20AAE-261A-4B8D-A860-823F3DF7DE2C"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-fdd767c61f6040be920288b1bdacc09d": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "25F63A6F-8789-49E9-A8F5-76C2760A4579"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-7837f4af67a048ef880f47b6b0b6e859": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "6A21D893-C62D-496E-95CD-B4937FDA3C7D"
+            ]
+        },
+        "WeansHHN-e569462ddcca40e88211ea9851bdeb8c": {
+            "user": "WeansHHN",
+            "amount": "14-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "1517BC71-5B87-4F12-9D16-D5C138A524DC"
+            ]
+        },
+        "WeansHHN-5b8e7c756d4844eb81e61b682be9513b": {
+            "user": "WeansHHN",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "975EDDED-4A5A-4A61-89F9-D9C5DEE4E8A9"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-0724bd9e22a84a24a305e15d71ea27c9": {
+            "user": "WeansHHN",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "27F99A5A-BB6C-4C87-9B24-105CEE5B3864"
+            ]
+        },
+        "WeansHHN-c21a73dcdb874a1aaa8dd11a20671f31": {
+            "user": "WeansHHN",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "BA2F8B21-E047-4621-B0E0-CF808802547F"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-d71d16f4af924a129fdfe15fc9d56161": {
+            "user": "WeansHHN",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "F03850FD-0F17-4F5D-AEBF-65320DC06797"
+            ]
+        },
+        "WeansHHN-dfac0a51b2eb45e7a4d08ddf75a284c9": {
+            "user": "WeansHHN",
+            "amount": "16-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "B01E5608-B478-4D99-A412-7C936E19B13C"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-4b607c3e518f4c35914e802937281ded": {
+            "user": "WeansHHN",
+            "amount": "14-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "22892B5D-77DB-4DEE-B0BE-39FA2060AA4E"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-994aeff9b12042248d528655d90f6bd2": {
+            "user": "WeansHHN",
+            "amount": "14-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "E134B981-AF14-4449-81CC-FC6F486E9276"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-f27aec2f9471445c9d7351cf661ba69a": {
+            "user": "WeansHHN",
+            "amount": "16-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "D7F3CD89-B1D9-417F-8C34-C53D71551F8E"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-ad6a8cc3aa6540c2a51eff4f1d329c4a": {
+            "user": "WeansHHN",
+            "amount": "16-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "E43D47A3-B678-4BD6-91F6-08A2C46C29AE"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-1ebfe89a797843d58c0235aee0a00f73": {
+            "user": "WeansHHN",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "47BBD8CE-9403-48A7-BDA0-9CB84016EF6D"
+            ]
+        },
+        "WeansHHN-ea83c27233794c31b7a252aecc519916": {
+            "user": "WeansHHN",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-3e078fb9bb7d4d709790e77d492d647e": {
+            "user": "WeansHHN",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 2,
+            "devices": [
+                "402579A1-7191-4EE7-8336-9EE9A7AFF92F",
+                "DBD64B01-DCC6-4027-A967-93C91D16F822"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-3cbbfe1b449945c7a5d3de485291bcf5": {
+            "user": "WeansHHN",
+            "amount": "15-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "C51A6868-EBA2-4856-8455-019C263C25FA"
+            ]
+        },
+        "WeansHHN-a3c27a8d73064e85b4c5917bc006c6af": {
+            "user": "WeansHHN",
+            "amount": "19-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "AF79AEAD-1A7B-4D5B-9125-99A46FCEEE8C"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-c247f0d3d47640cdb2a34ed69304cff5": {
+            "user": "WeansHHN",
+            "amount": "19-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "77B93375-F950-4FF9-8D4C-BEE1805B0A42"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-ae0eecb4db774afbb74d197174a65966": {
+            "user": "WeansHHN",
+            "amount": "18-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "91751FA9-E831-49A3-B3F0-487F7DF645F0"
+            ]
+        },
+        "WeansHHN-094fb17d698f461f8ad8bacdeab8598d": {
+            "user": "WeansHHN",
+            "amount": "16-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "9869E84D-0BCB-420F-B92A-CE4C66C6C65A"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-a15c6fc3eaba4af38c38755491df0143": {
+            "user": "WeansHHN",
+            "amount": "19-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "55ECCC60-4975-4DDE-A6ED-AB645947C0EF"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-2b8f7b645d8a4dd7bfd2841c20fde0ef": {
+            "user": "WeansHHN",
+            "amount": "22-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "5A8A1EBA-23DC-4E67-8743-F61042A99291"
+            ]
+        },
+        "WeansHHN-aadeb0bb92dc4054b534081d8fac0629": {
+            "user": "WeansHHN",
+            "amount": "22-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "937340C8-C8D9-4BFD-B7DE-9FD868CAE396"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "WeansHHN-7fd5092daa5442a39112ab63addb311c": {
+            "user": "WeansHHN",
+            "amount": "24-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-33947d82c1254f00916e4de996f14499": {
+            "user": "WeansHHN",
+            "amount": "23-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "B1443735-70C4-48BB-A8D3-4B3011EE760A"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "WeansHHN-5062f7db982e498887b38a506433621b": {
+            "user": "WeansHHN",
+            "amount": "3 months",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-a0cbe410b177431186b0d3caff231410": {
+            "user": "WeansHHN",
+            "amount": "3 months",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "Testtt-0a53bce7749d4000a26d455764334dae": {
+            "user": "WeansHHN",
+            "amount": "26-04-2025",
+            "is_activated": true,
+            "activation_date": "26-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "AB6469E3-0E2A-466B-B273-12182D295222"
+            ]
+        },
+        "KeyAdmin-9ab7c305567c4170b9b228a784cb3d2f": {
+            "user": "WeansHHN",
+            "amount": "26-04-2025",
+            "is_activated": true,
+            "activation_date": "26-01-2025",
+            "max_devices": 20,
+            "devices": [
+                "9A017103-6CD9-4989-BBFE-F1A6EB02834E",
+                "AAF6A025-54C1-44B7-A367-CB29B676F949"
+            ],
+            "uuid": null
+        },
+        "WeansHHN-7e98a5cf9b44454880c175cb1b253a18": {
+            "user": "WeansHHN",
+            "amount": "26-02-2025",
+            "is_activated": true,
+            "activation_date": "26-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "D9D76239-1DAD-4478-809D-2ED6D256B3DA"
+            ]
+        },
+        "WeansHHNBu-90da17e1c3254f209b82bb056c368d38": {
+            "user": "WeansHHN",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "E31F8621-9300-4957-8120-6C9846B6A756"
+            ]
+        },
+        "WeansHHN-6d74cf0a2f58425d8b25c7489a730cad": {
+            "user": "WeansHHN",
+            "amount": "27-03-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "F9D7B5A7-B4A2-4093-A86B-C71CA8C0067C"
+            ]
+        },
+        "WeansHHN-965e6c6ff1d34a4b89f59232546537d0": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "7ADAD2DB-17E1-4B35-A5EE-A8BC9298DBC2"
+            ]
+        },
+        "WeansHHN-8db7884719834ff0a930cc703dd77781": {
+            "user": "WeansHHN",
+            "amount": "27-04-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "1AA678F6-1D3D-4B39-B1AA-24560E3E5A4A"
+            ]
+        },
+        "WeansHHN-4e9b5b17f25c4c1cb6a810af558a922d": {
+            "user": "WeansHHN",
+            "amount": "27-04-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "39DB0CE7-8CFD-4061-A792-B7BC40014D1A"
+            ]
+        },
+        "WeansHHN-76453cc2957f422285a11c6cde6ba198": {
+            "user": "WeansHHN",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "89CFDE00-8724-483B-8ADD-5BFDB537E6A9"
+            ]
+        },
+        "WeansHHN-0e77dd9edfd949a7b93186fc5c4aa841": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "9A507CFB-49ED-4F05-A87D-E06FE371E06E"
+            ]
+        },
+        "WeansHHN-1e480a2ccc274fe4a9d4004e1fbab50b": {
+            "user": "WeansHHN",
+            "amount": "1 month",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-103bb8535dbc41fb80847c05411816fb": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "5D01182C-5B82-4B1D-948F-9AC79D1DB7E0"
+            ]
+        },
+        "WeansHHN-74b74c828f234118be85b73115dac923": {
+            "user": "WeansHHN",
+            "amount": "2 month",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-4e567f62a8484a0bbf150dc56befea88": {
+            "user": "WeansHHN",
+            "amount": "2 month",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-7089bfb0c5e94536831b2404ec99851e": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "B3470AC7-0FD8-4879-A68F-D4408E563383"
+            ]
+        },
+        "WeansHHN-8f9c3c0e2c46406f81b0dc0bbc7ed72d": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "5EF7AF9C-FDC3-4CEE-945A-3BC98E7D1E72"
+            ]
+        },
+        "WeansHHN-a55cbaa2478048a5997f50368c8376d4": {
+            "user": "WeansHHN",
+            "amount": "27-03-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "AB52DEF2-590D-4119-AB31-A2B08AACA0C5"
+            ]
+        },
+        "WeansHHN-562b6ebdd0b54e7a8fb13663abdbd8a3": {
+            "user": "WeansHHN",
+            "amount": "27-03-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "59CE2EDC-0688-4C65-B926-8C9570DA07FB"
+            ]
+        },
+        "WeansHHN-566eaa1eb15b404ebd4ef9d00b84509f": {
+            "user": "WeansHHN",
+            "amount": "27-03-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "53B1E2C7-BBC7-46A5-B306-BDA9AE232818"
+            ]
+        },
+        "WeansHHN-ea28440f29ba41799d4c523dcef505e2": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "6D8EB170-57B0-4017-A75C-0AE752A1A81D"
+            ]
+        },
+        "WeansHHN-b7ef3de217b84993a02470023688b089": {
+            "user": "WeansHHN",
+            "amount": "1 month",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "WeansHHN-b298a7407f79445bbaf31be7c68a4f7d": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "56CAF0E2-7237-4D34-AE05-8458869901EF"
+            ]
+        },
+        "WeansHHN-8621b550bca44ecba8255e9f39635bfd": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "FEA3ADB9-B97F-4AF9-A14E-736C47F71653"
+            ]
+        },
+        "WeansHHN-eff5bb8b8b8343bfa0c688c51c6d88c4": {
+            "user": "WeansHHN",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "8F5C136F-5E54-4811-9DB9-1B91797C7039"
+            ]
+        }
+    },
+    "KhoaLor": {},
+    "SonLo": {
+        "aov-b535db83d5ce45eea09283124c1e846f": {
+            "user": "SonLo",
+            "amount": "18-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "E63A3877-C032-4F68-A9E1-3C3EBB2828C4"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "dohu-c738821940e445259ba11f7295217a8b": {
+            "user": "SonLo",
+            "amount": "18-03-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "28F21753-9D12-461A-9531-1DC4ECD4B281"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "dohu-8cbf85bba1c34ad0a32a1731c1db3afc": {
+            "user": "SonLo",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "E321E3F2-66C3-423C-9374-316D9AE4917A"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "dohu-d9a80c9e2ddf4d36b0f84bea1c18c35d": {
+            "user": "SonLo",
+            "amount": "17-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "B9C23B5E-436F-41C2-BC5D-FB4DD60C7EBF"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "dohu-48e8f29d926e438cb1b24b7322aab3c4": {
+            "user": "SonLo",
+            "amount": "19-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "4F7EEFB3-5E52-4452-9A4A-EA9A912659EE"
+            ]
+        },
+        "dohu-74e6a0e2ca3c41cb84bc4f53085a85cd": {
+            "user": "SonLo",
+            "amount": "25-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "5160F6B2-27F8-439A-82AC-6C85205A6856"
+            ]
+        },
+        "dohu-a5ebc152fe5849e1a70ba33904d3cdd1": {
+            "user": "SonLo",
+            "amount": "18-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "dohu-b0f44d82338048b2afbdc83c06db4869": {
+            "user": "SonLo",
+            "amount": "18-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "719B24D7-C47C-4935-9F6B-3A83B522DA66"
+            ],
+            "is_activated": true,
+            "activation_date": "26-01-2025"
+        },
+        "dohu-c9faf874b59a42eca8026d27c35e1ccc": {
+            "user": "SonLo",
+            "amount": "19-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "D045AFCC-0985-4ACC-B603-A16CDF1C71E6"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "dohu-5d631ac62b9d44d490d40c5a1bc0bdca": {
+            "user": "SonLo",
+            "amount": "21-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "BCE18D77-1193-413C-A8F3-7F46D097F2B3"
+            ]
+        },
+        "Admin-d06ef45dcd0e4d709160c9c51c374a3e": {
+            "user": "SonLo",
+            "amount": "22-04-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "8133AF5B-BF43-4348-BD31-018976AA9967"
+            ]
+        },
+        "son-5b0541837b4142459ba4e452be649131": {
+            "user": "SonLo",
+            "amount": "22-04-2025",
+            "uuid": null,
+            "max_devices": 3,
+            "devices": [
+                "F4FAC2D1-6CBA-4038-BF44-A38560B26758"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "dohu-fb6ccb9f79594e038a219a0c72d6e0a6": {
+            "user": "SonLo",
+            "amount": "22-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "dohu-fb5b7e65c8a14fc59c6b25e3fc4bf385": {
+            "user": "SonLo",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "9D04695F-3438-4209-8114-0D3C979D88AD"
+            ]
+        },
+        "dohu-d6544ac73e2e49a4a28c84a1fc6fd164": {
+            "user": "SonLo",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "DD20A24A-8478-44BC-B0C3-E8D395467ADF"
+            ]
+        },
+        "dohu-58096430a98f4afcbf3102a13f4e04cd": {
+            "user": "SonLo",
+            "amount": "27-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "ACEE6DCC-9B13-4CA5-9D2A-075EA42BCEA6"
+            ]
+        },
+        "dohu-0eea9b53e48a4d669a301d4c57f17996": {
+            "user": "SonLo",
+            "amount": "1 week",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        }
+    },
+    "LongKD": {},
+    "VinhGay": {},
+    "VuTungLam": {
+        "AOV2-114245f84616427cbd66edaad1d5b7ba": {
+            "user": "VuTungLam",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "3A3B5F42-475E-4703-A6B7-40DD8ED46386"
+            ],
+            "is_activated": true,
+            "activation_date": "27-01-2025"
+        },
+        "AOV3-ae95b74261a6409299dbae8b9bb7eb3d": {
+            "user": "VuTungLam",
+            "amount": "15-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "60401F96-0433-4D2F-9654-4982C4ECD555"
+            ]
+        },
+        "AOV5-c33b83ced09541aebf6d32d8297e7147": {
+            "user": "VuTungLam",
+            "amount": "16-02-2025",
+            "uuid": null,
+            "max_devices": 1,
+            "devices": [
+                "FEA90CB0-17DE-42BC-A81A-1F7138D2DD49"
+            ]
+        },
+        "AOV-c53d8fd8544043248067ef20cdc06cd5": {
+            "user": "VuTungLam",
+            "amount": "3 months",
+            "is_activated": false,
+            "activation_date": null,
+            "max_devices": 1,
+            "devices": []
+        },
+        "aov-094cf02ef33d4914a7542f07880b9073": {
+            "user": "VuTungLam",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "3452B38E-ADFA-47E3-9ADD-0083998B2E7D"
+            ]
+        },
+        "aov-b877127ba4524a8b8f160bd2a7fd69d5": {
+            "user": "VuTungLam",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "D8A94B94-7290-4449-9CA8-E0F27163B3A9"
+            ]
+        },
+        "aov-84e8da1ba7464858ad4d9cc1521d4bef": {
+            "user": "VuTungLam",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "F7B0386D-B36E-44B2-AFD9-C441E15CF3DF"
+            ]
+        },
+        "aov-229c8a92a713416589eb1d29755cb56a": {
+            "user": "VuTungLam",
+            "amount": "03-02-2025",
+            "is_activated": true,
+            "activation_date": "27-01-2025",
+            "max_devices": 1,
+            "devices": [
+                "B0F5DA6E-0555-4571-B859-AC707935D66B"
+            ]
+        }
+    }
+}

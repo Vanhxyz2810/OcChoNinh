@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - {{ username }}</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: white;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1e1e1e;
+            padding: 10px 20px;
+        }
+
+        .navbar-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .hamburger {
+            font-size: 24px;
+            cursor: pointer;
+            margin-right: 15px;
+            display: none;
+        }
+
+        .nav-links {
+            display: flex;
+        }
+
+        .nav-links a {
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-links a:hover, .nav-links a.active {
+            background-color: #575757;
+        }
+
+        .navbar-right img {
+            border-radius: 50%;
+        }
+
+        /* Tabs */
+        .tab-content {
+            display: none;
+            padding: 20px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Forms and Buttons */
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group input, .form-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #444;
+            border-radius: 8px;
+            background-color: #1e1e1e;
+            color: white;
+        }
+
+        .generate-btn, .delete-btn, .copy-btn, .logout-btn {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .generate-btn:hover, .delete-btn:hover, .copy-btn:hover, .logout-btn:hover {
+            background-color: #2980b9;
+        }
+
+        /* Popup */
+        .popup {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .popup-content {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        /* Media Queries for Mobile Devices */
+        @media (max-width: 768px) {
+            .hamburger {
+                display: block;
+            }
+
+            .nav-links {
+                display: none;
+                flex-direction: column;
+                background-color: #333;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                width: 100%;
+            }
+
+            .nav-links.active {
+                display: flex;
+            }
+
+            .nav-links a {
+                padding: 15px;
+                border-top: 1px solid #444;
+                text-align: center;
+            }
+
+            .popup-content {
+                width: 90%;
+            }
+        }
+
+        /* Search Input */
+        #searchInput {
+            padding: 12px;
+            width: 50%;
+            border-radius: 8px;
+            border: 1px solid #444;
+            background-color: #1e1e1e;
+            color: white;
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        #searchInput::placeholder {
+            color: #a0a0a0;
+        }
+
+        #searchInput:focus {
+            background-color: #2e2e3f;
+            outline: none;
+            border-color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+            <span class="hamburger" onclick="toggleMenu()">&#9776;</span>
+            <div class="nav-links">
+                <a onclick="openTab(event, 'dashboard')" href="#">Dashboard</a>
+                <a onclick="openTab(event, 'manageKeys')" href="#">Quản lý Key</a>
+                <a onclick="openTab(event, 'update-management')" href="#">Quản lý phiên bản</a>
+                <a onclick="openTab(event, 'setting')" href="#">Cài đặt</a>
+            </div>
+        </div>
+        <div class="navbar-right">
+            <img src="https://avatars.githubusercontent.com/u/137310130?v=4" alt="Logo" width="50">
+        </div>
+    </div>
+
+    <div id="dashboard" class="tab-content active">
+        <h2>Dashboard {{ username }}</h2>
+        <form method="POST" action="/generate_key">
+            <div class="form-group">
+                <label for="prefix">Chuỗi đầu:</label>
+                <input type="text" id="prefix" name="prefix" placeholder="Chuỗi đầu" required>
+            </div>
+
+            <div class="form-group">
+                <label for="period-select">Thời hạn:</label>
+                <select name="period" id="period-select" onchange="toggleCustomDate()">
+                    <option value="1 day">1 Ngày</option>
+                    <option value="1 week">1 Tuần</option>
+                    <option value="1 month">1 Tháng</option>
+                    <option value="3 months">3 Tháng</option>
+                    <option value="custom">Tùy chỉnh</option>
+                </select>
+            </div>
+
+            <div class="form-group" id="custom-date-group" style="display:none;">
+                <label for="custom-date">Ngày tùy chỉnh:</label>
+                <input type="date" id="custom-date" name="custom_date">
+            </div>
+
+            <div class="form-group">
+                <label for="max_devices">Giới hạn thiết bị:</label>
+                <input type="number" id="max_devices" name="max_devices" placeholder="Số lượng thiết bị tối đa" required>
+            </div>
+
+            <div class="form-group">
+                <label for="key_count">Số lượng keys tạo:</label>
+                <input type="number" id="key_count" name="key_count" placeholder="Số lượng Key" value="1" min="1" required>
+            </div>
+
+            <button type="submit" class="generate-btn">Tạo Key</button>
+        </form>        
+    </div>
+
+    <div id="manageKeys" class="tab-content">
+        <h2>Quản lý Keys</h2>
+        <input type="text" id="searchInput" onkeyup="searchKey()" placeholder="Tìm kiếm key...">
+        <div class="key-list" id="keyList">
+            {% if keys %}
+                {% for key, details in keys.items() %}
+                <div class="key-item">
+                    <p><b>Key:</b> {{ key }}<br>
+                    <b>Hạn sử dụng:</b> {{ details['amount'] }}<br>
+                    <b>Số lượt thiết bị đã sử dụng:</b> {{ details['devices']|length }}/{{ details['max_devices'] }}</p>
+                    <div>
+                        <form method="POST" action="/delete_key/{{ key }}" style="display: inline;">
+                            <button type="submit" class="delete-btn">Xóa Key</button>
+                        </form>
+                        <form method="POST" action="/reset_udid/{{ key }}" style="display: inline;">
+                            <button type="submit" class="copy-btn">Reset Key</button>
+                        </form>
+                        <form style="display: inline;">
+                            <button type="button" class="copy-btn" onclick="copyKey('{{ key }}')">Copy Key</button>
+                        </form>
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <p>Không có key nào để hiển thị.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Update management tab -->
+    <div id="update-management" class="tab-content">
+        <form action="{{ url_for('update_info') }}" method="POST">
+            <div class="form-group">
+                <label for="version">Version:</label>
+                <input type="text" id="version" name="version" class="form-control" required value="{{ updates['version'] }}">
+            </div>
+            <div class="form-group">
+                <label for="status">Status:</label>
+                <select id="status" name="status" class="form-control">
+                    <option value="true" {% if updates['status'] == 'true' %}selected{% endif %}>True</option>
+                    <option value="false" {% if updates['status'] == 'false' %}selected{% endif %}>False</option>
+                </select>
+            </div>
+            <button type="submit" class="generate-btn">Update</button>
+        </form>
+    </div>
+
+    <!-- Setting Tab -->
+    <div id="setting" class="tab-content">
+        <h2>Thông Tin Người Dùng</h2>
+        <div class="user-info">
+            <p><strong>Tên người dùng:</strong> {{ username }}</p>
+        </div>
+        <form method="POST" action="/logout">
+            <button type="submit" class="logout-btn">Đăng Xuất</button>
+        </form>
+    </div>
+
+    <script>
+        function openTab(evt, tabName) {
+            var tabcontent = document.getElementsByClassName("tab-content");
+            Array.from(tabcontent).forEach(tab => tab.style.display = "none");
+            var tablinks = document.getElementsByClassName("nav-links")[0].children;
+            Array.from(tablinks).forEach(link => link.classList.remove("active"));
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.classList.add("active");
+        }
+
+        function toggleCustomDate() {
+            var periodSelect = document.getElementById('period-select');
+            var customDateGroup = document.getElementById('custom-date-group');
+            customDateGroup.style.display = periodSelect.value === 'custom' ? 'block' : 'none';
+        }
+
+        function searchKey() {
+            var input = document.getElementById('searchInput');
+            var filter = input.value.toUpperCase();
+            var keyItems = document.getElementById('keyList').getElementsByClassName('key-item');
+            Array.from(keyItems).forEach(item => {
+                var text = item.textContent || item.innerText;
+                item.style.display = text.toUpperCase().includes(filter) ? '' : 'none';
+            });
+        }
+
+        function copyKey(key) {
+            navigator.clipboard.writeText(key);
+            alert("Key đã được sao chép!");
+        }
+
+        function toggleMenu() {
+            var navLinks = document.querySelector('.nav-links');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
+

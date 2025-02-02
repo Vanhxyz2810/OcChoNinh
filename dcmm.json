@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "192.168.43.7",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "session",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "eyJ1c2VybmFtZSI6IldlYW5zSEhOIn0.Z55NAw.XW_fq2A7KLe69kUYs0R934vQYJo"
+    }
+]
